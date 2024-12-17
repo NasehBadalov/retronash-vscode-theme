@@ -1,0 +1,66 @@
+{
+	"name": "RetroNash-Theme",
+	"type": "dark",
+	"colors": {
+	  "editor.background": "#2C2C1E", // Dark brownish background
+	  "editor.foreground": "#E8DAB2", // Soft beige text
+	  "editorCursor.foreground": "#FFB347", // Retro orange-yellow cursor
+	  "editor.lineHighlightBackground": "#3B3B2C",
+	  "editor.selectionBackground": "#a87c4da6", // Muted brown-orange
+	  "editor.inactiveSelectionBackground": "#756e5a45",
+	  "editorIndentGuide.background1": "#746F4A", // Olive line guides
+	  "editorIndentGuide.activeBackground1": "#B1A877"
+	},
+	"tokenColors": [
+	  {
+		"scope": ["keyword", "storage", "import"],
+		"settings": {
+		  "foreground": "#E07B39" // Burnt orange for keywords and imports
+		}
+	  },
+	  {
+		"scope": ["string", "constant.language"],
+		"settings": {
+		  "foreground": "#C8B07A" // Mustard yellow for strings
+		}
+	  },
+	  {
+		"scope": ["variable", "parameter", "function"],
+		"settings": {
+		  "foreground": "#8ABF91" // Olive green for variables/functions
+		}
+	  },
+	  {
+		"scope": ["entity.name.function", "support.type.property-name"],
+		"settings": {
+		  "foreground": "#5B8DB1" // Soft retro blue for JSX attributes
+		}
+	  },
+	  {
+		"scope": ["storage.type", "support.type", "constant"],
+		"settings": {
+		  "foreground": "#D9A066" // Warm peach for constants/logicals
+		}
+	  },
+	  {
+		"scope": ["punctuation", "meta.brace", "meta.delimiter"],
+		"settings": {
+		  "foreground": "#A68E6B" // Muted beige-brown for punctuation
+		}
+	  },
+	  {
+		"scope": ["comment"],
+		"settings": {
+		  "foreground": "#7C6A5C", // Dusty brown for comments
+		  "fontStyle": "italic"
+		}
+	  },
+	  {
+		"scope": ["entity.name.tag", "markup.bold"],
+		"settings": {
+		  "foreground": "#D87B73" // Retro coral-red for tags and bold text
+		}
+	  }
+	]
+  }
+  
