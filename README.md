@@ -1,5 +1,5 @@
 <h1 align=center>
-    <img alt="LubnaDev VS Code theme icon" src="https://i.imgur.com/ZGcuef8.png" width="100" /> 
+    <img alt="LubnaDev VS Code theme icon" src="https://i.imgur.com/ZGcuef8.png" width="300" /> 
     <br/>
     <br/>
     RetroNash VS Code Theme
