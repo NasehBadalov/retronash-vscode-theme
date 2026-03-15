@@ -1,7 +1,4 @@
 <h1 align=center>
-    <img alt="LubnaDev VS Code theme icon" src="images/logo-squared.png" width="300" /> 
-    <br/>
-    <br/>
     RetroNash VS Code Theme
 </h1>
 
